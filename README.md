@@ -18,3 +18,11 @@ The goal is to create a device which would store deliveries. Basic idea is to al
 4. UI programming for end users and service menu for technical staff.
 5. Back-end programming (SMS/email sending)
 6. Assembling the box: electronic lock, wires and buttons connection to Raspberry pins, assembling plastic elements together, adjusting power supply and internet connection.
+
+## Persona and user story
+
+![Jennifer](https://user-images.githubusercontent.com/57194933/137210714-48ed8da3-82e9-4c88-9a35-b99bc07ded76.png)
+
+![Boxie user story](https://user-images.githubusercontent.com/57194933/137210738-a1d53360-2a1a-4981-b7a1-4baf9ded08f4.png)
+
+<img width="841" alt="Screenshot 2021-10-13 at 23 09 14" src="https://user-images.githubusercontent.com/57194933/137205595-c816bb39-0de5-48eb-99c7-f3d41ce71b8e.png">
